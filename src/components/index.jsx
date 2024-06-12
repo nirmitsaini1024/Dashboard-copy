@@ -5,3 +5,4 @@ export { default as Navbar } from './Navbar';
 export { default as UserProfile } from './UserProfile';
 export { default as ChartsHeader } from './ChartsHeader';
 export { default as Header } from './Header';
+export { default as SparkLine } from './Charts/SparkLine';
